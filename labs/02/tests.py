@@ -1,4 +1,4 @@
-from solutions import fizzbuzz, fibonacci, bonus_utf8, count_words, dot_product, redact
+from tasks import fizzbuzz, fibonacci, bonus_utf8, count_words, dot_product, redact
 
 
 def test_fizzbuzz():
