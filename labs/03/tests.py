@@ -2,7 +2,7 @@ import itertools
 import tempfile
 from collections import deque
 
-from solutions import (bonus_tree_walker, cached, fibonacci_closure,
+from tests import (bonus_tree_walker, cached, fibonacci_closure,
                        prime_generator, incrementor, transform_file)
 
 
