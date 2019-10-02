@@ -1,7 +1,18 @@
 # Repository for SPJA exercises
-Points: https://docs.google.com/spreadsheets/d/1bCOGE8WP4ooAW2W9pjVEp24EOZYGkcGlk137Vy6zmwE/edit?usp=sharing
+- [Points](https://docs.google.com/spreadsheets/d/1bCOGE8WP4ooAW2W9pjVEp24EOZYGkcGlk137Vy6zmwE/edit?usp=sharing)
+- [Slack](http://spja-vsb.slack.com)
 
-Slack: http://spja-vsb.slack.com
+# Exercises
+Week 3 (2. 10.): functions, iterators, generators, closures, lambdas, decorators, files, exceptions
+
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/03/tasks.py)
+- [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/03/cheatsheet.py)
+
+Week 2 (25. 9.): variables, conditions, loops, lists, dictionaries, tuples
+
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/02/tasks.py)
+- [Solutions](https://github.com/Kobzol/spja/blob/master/labs/02/solutions.py)
+- [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/02/cheatsheet.py)
 
 ## Environment & tests setup
 ```bash
