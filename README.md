@@ -3,6 +3,12 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
+Week 4 (9. 10.): objects, modules, style
+
+- [Slides](https://github.com/Kobzol/spja/blob/master/labs/04/slides.pdf)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/04/tasks.py)
+- [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/04/cheatsheet.py)
+
 Week 3 (2. 10.): functions, iterators, generators, closures, lambdas, decorators, files, exceptions
 
 - [Tasks](https://github.com/Kobzol/spja/blob/master/labs/03/tasks.py)
