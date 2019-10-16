@@ -3,6 +3,12 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
+Week 5 (16. 10.): pygame
+
+- [Slides](https://github.com/Kobzol/spja/blob/master/labs/05/slides.pdf)
+- [Game](https://github.com/Kobzol/spja/blob/master/labs/05/engine.py)
+- [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/05/cheatsheet.py)
+
 Week 4 (9. 10.): objects, modules, style
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/04/slides.pdf)
