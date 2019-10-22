@@ -6,26 +6,23 @@
 Week 5 (16. 10.): pygame
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/05/slides.pdf)
-- [Game](https://github.com/Kobzol/spja/blob/master/labs/05/engine.py)
+- [Game](https://github.com/Kobzol/spja/blob/master/labs/05/engine.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/05/engine.py))
 - [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/05/cheatsheet.py)
 
 Week 4 (9. 10.): objects, modules, style
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/04/slides.pdf)
-- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/04/tasks.py)
-- [Solutions](https://github.com/Kobzol/spja/blob/master/labs/04/solutions.py)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/04/tasks.py) ([solutions](https://github.com/Kobzol/spja/blob/master/labs/04/solutions.py))
 - [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/04/cheatsheet.py)
 
 Week 3 (2. 10.): functions, iterators, generators, closures, lambdas, decorators, files, exceptions
 
-- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/03/tasks.py)
-- [Solutions](https://github.com/Kobzol/spja/blob/master/labs/03/solutions.py)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/03/tasks.py) ([solutions](https://github.com/Kobzol/spja/blob/master/labs/03/solutions.py))
 - [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/03/cheatsheet.py)
 
 Week 2 (25. 9.): variables, conditions, loops, lists, dictionaries, tuples
 
-- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/02/tasks.py)
-- [Solutions](https://github.com/Kobzol/spja/blob/master/labs/02/solutions.py)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/02/tasks.py) ([solutions](https://github.com/Kobzol/spja/blob/master/labs/02/solutions.py))
 - [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/02/cheatsheet.py)
 
 ## Environment & tests setup
