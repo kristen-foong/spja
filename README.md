@@ -3,6 +3,12 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
+Week 5 (16. 10.): Web & APIs
+
+- [Slides](https://github.com/Kobzol/spja/blob/master/labs/06/slides.pdf)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/06/task.py)
+- [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/06/cheatsheet.py)
+
 Week 5 (16. 10.): pygame
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/05/slides.pdf)
