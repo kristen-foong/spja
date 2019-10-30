@@ -3,16 +3,21 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
-Week 5 (16. 10.): Web & APIs
+Week 7 (30. 10.): GUI
+
+- [Slides](https://github.com/Kobzol/spja/blob/master/labs/07/slides.pdf)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/07/task.py)
+
+Week 6 (23. 10.): Web & APIs
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/06/slides.pdf)
-- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/06/task.py)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/06/task.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/06/solutions.py))
 - [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/06/cheatsheet.py)
 
 Week 5 (16. 10.): pygame
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/05/slides.pdf)
-- [Game](https://github.com/Kobzol/spja/blob/master/labs/05/engine.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/05/engine.py))
+- [Game](https://github.com/Kobzol/spja/blob/master/labs/05/engine.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/05/engine_solution.py))
 - [Cheatsheet](https://github.com/Kobzol/spja/blob/master/labs/05/cheatsheet.py)
 
 Week 4 (9. 10.): objects, modules, style
