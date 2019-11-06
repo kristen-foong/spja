@@ -3,10 +3,16 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
+Week 8 (6. 11.): TCP/IP & threads
+
+- [Slides](https://github.com/Kobzol/spja/blob/master/labs/08/slides.pdf)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/08/client.py)
+
 Week 7 (30. 10.): GUI
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/07/slides.pdf)
-- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/07/task.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/07/game_solution.py))
+- [Task (game)](https://github.com/Kobzol/spja/blob/master/labs/07/game.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/07/game_solution.py))
+- [Task (GUI)](https://github.com/Kobzol/spja/blob/master/labs/07/tictactoe.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/07/tictactoe_solution.py))
 
 Week 6 (23. 10.): Web & APIs
 
