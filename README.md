@@ -6,7 +6,7 @@
 Week 7 (30. 10.): GUI
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/07/slides.pdf)
-- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/07/task.py)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/07/task.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/07/game_solution.py))
 
 Week 6 (23. 10.): Web & APIs
 
