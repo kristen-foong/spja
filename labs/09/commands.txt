@@ -1,0 +1,23 @@
+# create project
+django-admin startproject spja_polls
+
+# create app
+python manage.py startapp polls
+
+# run development server
+python manage.py runserver
+
+# sanity check
+python manage.py check
+
+# create DB migrations
+python manage.py makemigrations
+
+# show SQL command for a specific migration
+python manage.py sqlmigrate polls 0001
+
+# run DB migrations
+python manage.py migrate
+
+# create superuser
+python manage.py createsuperuser
