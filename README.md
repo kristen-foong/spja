@@ -6,7 +6,8 @@
 Week 8 (6. 11.): TCP/IP & threads
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/08/slides.pdf)
-- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/08/client.py)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/08/client.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/08/client_solution.py))
+- [Server](https://github.com/Kobzol/spja/blob/master/labs/08/server_solution.py)
 
 Week 7 (30. 10.): GUI
 
