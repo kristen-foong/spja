@@ -3,6 +3,11 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
+Week 10 (20. 11.): BFS & geometric algorithms
+
+- [Slides](https://github.com/Kobzol/spja/blob/master/labs/10/slides.pdf)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/10/client.py)
+
 Week 8 (6. 11.): TCP/IP & threads
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/08/slides.pdf)
