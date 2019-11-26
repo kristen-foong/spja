@@ -6,7 +6,7 @@
 Week 10 (20. 11.): BFS & geometric algorithms
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/10/slides.pdf)
-- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/10/tasks.py)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/10/tasks.py) ([solution](https://github.com/Kobzol/spja/blob/master/labs/10/solutions.py))
 
 Week 8 (6. 11.): TCP/IP & threads
 
