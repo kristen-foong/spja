@@ -3,6 +3,11 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
+Week 11 (27. 11.): Numpy & pandas
+
+- [Pandas data analysis](https://github.com/Kobzol/spja/blob/master/labs/11/datova%20analyza.ipynb)
+- [Tasks](https://github.com/Kobzol/spja/blob/master/labs/11/task.ipynb)
+
 Week 10 (20. 11.): BFS & geometric algorithms
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/10/slides.pdf)
