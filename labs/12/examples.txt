@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=PCBTZh41Ris         # everybody dance now
+https://www.youtube.com/watch?v=HgDdaMy8KNE&        # wallhack
+https://www.youtube.com/watch?v=ohmajJTcpNk&t=44s   # face transfer
+https://www.youtube.com/watch?v=OOT3UIXZztE         # segmentation
+https://www.youtube.com/watch?v=pW6nZXeWlGM         # pose detection
+https://www.youtube.com/watch?v=pkGa8ICQJS8&t=549s  # OpenAI Five
+https://www.youtube.com/watch?v=fa5QGremQf8         # lipnet
+
+https://github.com/junyanz/CycleGAN     # cyclegan
+https://affinelayer.com/pixsrv/         # image-to-image
+https://cs.stanford.edu/people/karpathy/deepimagesent/  # image captioning
+https://talktotransformer.com/  # transformer (GPT-2)
+https://google.github.io/tacotron/publications/tacotron2/index.html # wavenet
+https://nvlabs.github.io/few-shot-vid2vid/         # vid2vid

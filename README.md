@@ -3,6 +3,13 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
+Week 12 (4. 12.): Machine learning, Keras
+
+- [Slides](https://github.com/Kobzol/spja/blob/master/labs/12/slides.pdf)
+- [Keras on MNIST](https://github.com/Kobzol/spja/blob/master/labs/12/keras_mnist.py)
+- [Neural network](https://github.com/Kobzol/spja/blob/master/labs/12/manual_network.py)
+- [Object detection](https://github.com/Kobzol/spja/blob/master/labs/12/objdetect.py)
+
 Week 11 (27. 11.): Numpy & pandas
 
 - [Pandas data analysis](https://github.com/Kobzol/spja/blob/master/labs/11/datova%20analyza.ipynb)
