@@ -3,6 +3,11 @@
 - [Slack](http://spja-vsb.slack.com)
 
 # Exercises
+Week 13 (11. 12.): git
+
+- [Slides](https://github.com/Kobzol/spja/blob/master/labs/13/git.pdf)
+- [Subjects](https://github.com/Kobzol/spja/blob/master/labs/13/subjects.pdf)
+
 Week 12 (4. 12.): Machine learning, Keras
 
 - [Slides](https://github.com/Kobzol/spja/blob/master/labs/12/machine-learning.pdf)
